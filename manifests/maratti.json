@@ -1,0 +1,100 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json",
+  "@type" : "sc:Manifest",
+  "label" : "Carlo Maratti (incisione da), Apollo e Dafne",
+  "metadata" : [ {
+    "label" : "Titolo",
+    "value" : "Apollo e Dafne"
+  }, {
+    "label" : "Creatore",
+    "value" : "Carlo Maratti (pittore)"
+  }, {
+    "label" : "Creatore",
+    "value" : "Robert van Audenaerd (incisore)"
+  }, {
+    "label" : "Soggetto",
+    "value" : "Apollo; Dafne; Peneo; Cupido; dio fluviale; ninfe; metamorfosi; Ovidio."
+  }, {
+    "label" : "Data",
+    "value" : "1681 (esecuzione del dipinto)"
+  }, {
+    "label" : "Data",
+    "value" : "1728 (esecuzione dell'incisione)"
+  }, {
+    "label" : "Copertura",
+    "value" : "Musées Royaux del Beaux-Art, Bruxelles (dipinto)"
+  }, {
+    "label" : "Copertura",
+    "value" : "National gallery of art, Washington"
+  }, {
+    "label" : "Formato",
+    "value" : "olio su tela (dipinto)"
+  }, {
+    "label" : "Formato",
+    "value" : "incisione"
+  }, {
+    "label" : "Editore",
+    "value" : "Iconos"
+  }, {
+    "label" : "Autore di contributo subordinato",
+    "value" : "Maria Francesca Bocchi"
+  } ],
+  "description" : [ {
+    "@value" : "L'incisione settecentesca riproduce il dipinto seicentesco che Carlo Maratti aveva dipinto per il re Luigi XIV di Francia. La composizione è ricca di figue infatti, oltre ai protagonisti della vicenda, Apollo e Dafne, e a Peneo e Cupido che ritroviamo anche il altre opere precedenti, il pittore introduce anche le ninfe e un altro dio fluviale, inserendo l'intero episodio all'interno di un contesto boschivo al cui limitare scorre un fiume, presumibilmente il fiume omonimo a Peneo, padre di Dafne. Qui Maratti fonde le due scene della corsa e della metamorfosi che è appena incominciata, come si può notare dalle foglie sulle mani di Dafne e dalle radici che le partono dalle dita dei piedi. Ogni personaggio si volge con il corpo e con l'espressione del volto verso il centro della scena, in particolare sono interessanti le posizioni di Peneo e di Cupido: il padre della ninfa da le spalle allo spettatore e con il suo gesto di spalancare le braccia e protenderle in avanti sembra voler arrestare la corsa della figlia che sta procedendo nella sua direzione; il dio dell'amore invece è sospeso in aria e osserva con fare beffardo la scena, conscio del suo potere su uomini e dei.",
+    "@language" : "it"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "National gallery of art, Washington.",
+  "sequences" : [ {
+    "@id" : "http://4b985d16-b59f-4050-a1c6-776a705a150a",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c",
+      "@type" : "sc:Canvas",
+      "label" : "Carlo Maratti, Apollo e Dafne",
+      "height" : 4000,
+      "width" : 3854,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://81b8b6eb-86f5-4470-9b67-b1bb0547e1fd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://media.nga.gov/iiif/d086093b-177f-4353-9b43-4e2e84cbeb4e/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://media.nga.gov/iiif/d086093b-177f-4353-9b43-4e2e84cbeb4e",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json" ]
+          },
+          "height" : 4000,
+          "width" : 3854
+        },
+        "on" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "related" : [ {
+    "@id" : "https://www.nga.gov/collection/art-object-page.204339.html",
+    "label" : "Scheda dell'opera sul sito della National gallery of art di Washington.",
+    "format" : "HTML"
+  }, {
+    "@id" : "https://www.fine-arts-museum.be/fr/la-collection/carlo-maratta-apollon-a-la-poursuite-de-daphne",
+    "label" : "Scheda dell'opera sul sito dei musei reali di belle arti di Bruxelles.",
+    "format" : "HTML"
+  } ],
+  "seeAlso" : {
+    "format" : "XML/DC"
+  },
+  "thumbnail" : {
+    "@id" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+  }
+}
