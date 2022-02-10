@@ -1,0 +1,756 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.4.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.4."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Aureola",
+      "@type" : "oa:Tag",
+      "chars" : "Aureola"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-10T18:29:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644517742384",
+    "dcterms:modified" : "2022-02-10T18:29:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2579,684,357,535"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2578.57364,683.84888h178.51382v0h178.51382v267.27074v267.27074h-178.51382h-178.51382v-267.27074z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_43cccf6d-2ac5-4437-bb8b-bf6b9610f96a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"64.55048\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.4.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.4."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mano in forma di foglie",
+      "@type" : "oa:Tag",
+      "chars" : "Mano in forma di foglie"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T18:28:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644517689331",
+    "dcterms:modified" : "2022-02-10T18:28:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1199,853,317,309"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1198.80707,853.29389h158.3418v0h158.3418v154.3074v154.3074h-158.3418h-158.3418v-154.3074z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8e401d73-d171-4935-ad4e-1403daeedb22\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.3.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.3."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cupido",
+      "@type" : "oa:Tag",
+      "chars" : "Cupido"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T18:23:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644517402630",
+    "dcterms:modified" : "2022-02-10T18:23:22",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=861,156,859,642"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M860.55094,156.00416h429.27443v0h429.27443v321.16632v321.16632h-429.27443h-429.27443v-321.16632z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d96256d7-7844-40ba-9779-d7cc5bac41c9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.3.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.3."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ninfa",
+      "@type" : "oa:Tag",
+      "chars" : "Ninfa"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T18:25:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644517542329",
+    "dcterms:modified" : "2022-02-10T18:25:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3132,2204,613,1152"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3132.08524,2203.80457h306.36383v0h306.36383v575.80249v575.80249h-306.36383h-306.36383v-575.80249z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c88604fc-f128-4aa9-b29b-664afb59599c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.4.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.4."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Frecce",
+      "@type" : "oa:Tag",
+      "chars" : "Frecce"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T18:30:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644517845373",
+    "dcterms:modified" : "2022-02-10T18:30:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1392,280,268,228"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1392.45852,280.40836h134.13537v0h134.13537v113.96334v113.96334h-134.13537h-134.13537v-113.96334z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ce77903f-5b3e-4f39-9150-e9dcde761cda\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.4.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.4."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ali",
+      "@type" : "oa:Tag",
+      "chars" : "Ali"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T18:31:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644517866345",
+    "dcterms:modified" : "2022-02-10T18:31:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1062,200,236,268"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1061.6373,199.72026h117.99775v0h117.99775v134.13537v134.13537h-117.99775h-117.99775v-134.13537z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4899c57b-67ae-4531-baab-6f9c465cc9f0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.2.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.2."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bosco",
+      "@type" : "oa:Tag",
+      "chars" : "Bosco"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fiume",
+      "@type" : "oa:Tag",
+      "chars" : "Fiume"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T18:18:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644517133940",
+    "dcterms:modified" : "2022-02-10T18:18:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=463,399,83,125"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M504.96258,523.90852c0,-27.72003 13.86001,-55.44006 41.58004,-83.16008c0,-22.96402 -18.61602,-41.58004 -41.58004,-41.58004c-22.96402,0 -41.58004,18.61602 -41.58004,41.58004c27.72003,27.72003 41.58004,55.44006 41.58004,83.16008z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_cac60112-feec-4d59-a061-d34203e3e3c6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#41ff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.3.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.3."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ninfe",
+      "@type" : "oa:Tag",
+      "chars" : "Ninfe"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T18:22:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644517336102",
+    "dcterms:modified" : "2022-02-10T18:22:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=120,1287,701,1474"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M120.4262,1286.98129h350.27235v0h350.27235v736.96674v736.96674h-350.27235h-350.27235v-736.96674z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_de9d7851-46c2-48ff-a9f9-b720a59486f3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.4.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.4."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Corona di foglie",
+      "@type" : "oa:Tag",
+      "chars" : "Corona di foglie"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-10T18:27:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644517625339",
+    "dcterms:modified" : "2022-02-10T18:27:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=445,1694,340,368"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M444.88358,1693.66736h169.84823v0h169.84823v184.2183v184.2183h-169.84823h-169.84823v-184.2183z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_54d9ea95-d2ff-4611-ac8f-4b8890b3cf09\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"57.48025\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.4.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.4."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dita dei piedi in forma di radici",
+      "@type" : "oa:Tag",
+      "chars" : "Dita dei piedi in forma di radici"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T18:28:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644517718716",
+    "dcterms:modified" : "2022-02-10T18:28:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1747,2443,317,228"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1747.48617,2442.84952h158.3418v0h158.3418v113.96334v113.96334h-158.3418h-158.3418v-113.96334z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a6b9bd57-084e-48ad-86bc-f3f53e5ba592\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.3.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.3."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dafne",
+      "@type" : "oa:Tag",
+      "chars" : "Dafne"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-10T18:23:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644517423917",
+    "dcterms:modified" : "2022-02-10T18:28:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1555,975,750,1309"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1554.93764,975.13098h375.22038v0h375.22038v654.34541v654.34541h-375.22038h-375.22038v-654.34541z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_9e1d21ae-44f8-4b03-a8d0-4ba50b1e468c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"64.55048\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.4.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.4."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Faretra",
+      "@type" : "oa:Tag",
+      "chars" : "Faretra"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T18:29:52",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644517792143",
+    "dcterms:modified" : "2022-02-10T18:29:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3055,926,260,349"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3054.63344,925.91319h130.10096v0h130.10096v174.47942v174.47942h-130.10096h-130.10096v-174.47942z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_96f91ac4-bbbd-48a0-9c42-5793aac4113d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Apollo, vestito solo di un drappo, &egrave; in corsa dietro alla ninfa e protende la mano destra in avanti per afferrarla. L'idea del movimento &egrave; data sia dal drappo svolazzante, sia dai capelli che si muovono in direzione contraria, sia dalla posizione delle gambe.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Apollo, vestito solo di un drappo, &egrave; in corsa dietro alla ninfa e protende la mano destra in avanti per afferrarla. L'idea del movimento &egrave; data sia dal drappo svolazzante, sia dai capelli che si muovono in direzione contraria, sia dalla posizione delle gambe.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.3.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.3."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Apollo",
+      "@type" : "oa:Tag",
+      "chars" : "Apollo"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-10T18:26:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644517565072",
+    "dcterms:modified" : "2022-02-10T18:32:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2465,760,1065,735"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2465.28898,759.61331h532.6923v0h532.6923v367.43659v367.43659h-532.6923h-532.6923v-367.43659z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_813d6c30-2296-457f-afcd-889e61d2f502\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"64.55048\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.1.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.1."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Apollo rincorre Dafne",
+      "@type" : "oa:Tag",
+      "chars" : "Apollo rincorre Dafne"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dafne si trasforma in un albero di alloro",
+      "@type" : "oa:Tag",
+      "chars" : "Dafne si trasforma in un albero di alloro"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Trasformazione che include mani e dita dei piedi",
+      "@type" : "oa:Tag",
+      "chars" : "Trasformazione che include mani e dita dei piedi"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T18:19:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644517199861",
+    "dcterms:modified" : "2022-02-10T18:19:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3283,175,83,125"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3324.0894,299.3763c0,-27.72003 13.86001,-55.44006 41.58004,-83.16008c0,-22.96402 -18.61602,-41.58004 -41.58004,-41.58004c-22.96402,0 -41.58004,18.61602 -41.58004,41.58004c27.72003,27.72003 41.58004,55.44006 41.58004,83.16008z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_7f4a0984-4d67-495b-bc3e-5058b1621095\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.3.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.3."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dio fluviale",
+      "@type" : "oa:Tag",
+      "chars" : "Dio fluviale"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-10T18:22:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644517360593",
+    "dcterms:modified" : "2022-02-10T18:24:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=960,1295,509,1241"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M960.34304,1295.2973h254.63825v0h254.63825v620.54262v620.54262h-254.63825h-254.63825v-620.54262z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_e854dfc5-c18f-4136-905b-878ca265d70f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"66.52807\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.3.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.3."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Peneo",
+      "@type" : "oa:Tag",
+      "chars" : "Peneo"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-10T18:24:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644517482373",
+    "dcterms:modified" : "2022-02-10T18:25:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2407,1562,518,1781"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2407.32848,1562.14137h258.79625v0h258.79625v890.44698v890.44698h-258.79625h-258.79625v-890.44698z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_a47ae795-d267-447f-a00b-43c2199b6937\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"57.48025\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.4.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.4."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Urna",
+      "@type" : "oa:Tag",
+      "chars" : "Urna"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T18:27:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644517667362",
+    "dcterms:modified" : "2022-02-10T18:27:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1933,2895,414,486"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1933.06881,2894.7029h206.75466v0h206.75466v243.06431v243.06431h-206.75466h-206.75466v-243.06431z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2eb84900-90ab-4edc-b11a-98e61d4a68bf\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.4.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.4."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Urna",
+      "@type" : "oa:Tag",
+      "chars" : "Urna"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T18:30:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644517812858",
+    "dcterms:modified" : "2022-02-10T18:30:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=989,1894,276,478"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M989.018,1894.17042h138.16978v0h138.16978v239.0299v239.0299h-138.16978h-138.16978v-239.0299z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d8e8e5ba-8f33-424b-aa44-3288a798151a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://164b9e1b-9d8e-4127-9bd9-14fa8047082c"
+    } ]
+  } ],
+  "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/annotations/annomaratti.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
