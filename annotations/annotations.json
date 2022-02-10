@@ -1,0 +1,465 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "La faretra &egrave; uno degli attributi pi&ugrave; tipici di Apollo e ritorna anche nel dio sullo sfondo. Questo oggetto richiama soprattutto l'antefatto dell'episodio, ovvero la morte di Pitone per mano di Apollo e la disputa con Cupido: la freccia di cui si faceva vanto &egrave; diventata la freccia che lo ha condannato a questo amore non corrisposto per la ninfa",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>La faretra &egrave; uno degli attributi pi&ugrave; tipici di Apollo e ritorna anche nel dio sullo sfondo. Questo oggetto richiama soprattutto l'antefatto dell'episodio, ovvero la morte di Pitone per mano di Apollo e la disputa con Cupido: la freccia di cui si faceva vanto &egrave; diventata la freccia che lo ha condannato a questo amore non corrisposto per la ninfa</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.4.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.4."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Faretra",
+      "@type" : "oa:Tag",
+      "chars" : "Faretra"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-10T09:33:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644485629041",
+    "dcterms:modified" : "2022-02-10T10:52:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=870,1648,291,198"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M870.21939,1647.64066h145.49264v0h145.49264v99.01249v99.01249h-145.49264h-145.49264v-99.01249z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_8b512666-c276-4919-aad3-bbd25e449754\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"57.92931\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://086dc652-8c37-4aeb-af86-a6aff852c6d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "La rappresentazione di Dafne in fuga segue con estrema precisione le parole di Ovidio: \"Anche allora sembr&ograve; bella: i venti mettevano a nudo il corpo e il loro soffio faceva svolazzare l'abito investendolo di fronte e la corrente d'aria leggera spingeva indietro i capelli, sicch&eacute; la bellezza cresceva con la fuga\".",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>La rappresentazione di Dafne in fuga segue con estrema precisione le parole di Ovidio: \"Anche allora sembr&ograve; bella: i venti mettevano a nudo il corpo e il loro soffio faceva svolazzare l'abito investendolo di fronte e la corrente d'aria leggera spingeva indietro i capelli, sicch&eacute; la bellezza cresceva con la fuga\".</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.3.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.3."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dafne",
+      "@type" : "oa:Tag",
+      "chars" : "Dafne"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-09T17:19:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644427199522",
+    "dcterms:modified" : "2022-02-09T17:25:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1308,821,702,1775"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1308.43814,820.68545h351.20192v0h351.20192v887.45037v887.45037h-351.20192h-351.20192v-887.45037z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_30171b92-cb3f-4150-b670-f2d26111e145\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"45.27195\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://086dc652-8c37-4aeb-af86-a6aff852c6d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "La fuga viene resa dal movimento dei capelli e dal drappo che si avvolge attorno al busto del dio, inoltre l'idea di movimento &egrave; sottolineata dal portendersi in avanti delle braccia che vogliono afferrare la ninfa e dalla gamba piegata.\nIl corpo seminudo avvolto solo da un drappo &egrave; un esempio di quel processo di reintegrazione tra forma e contenuto classico avvenuto in epoca rinascimentale; lo stesso si vede nella figura di Dafne e in quella di Peneo.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>La fuga viene resa dal movimento dei capelli e dal drappo che si avvolge attorno al busto del dio, inoltre l'idea di movimento &egrave; sottolineata dal portendersi in avanti delle braccia che vogliono afferrare la ninfa e dalla gamba piegata.</p>\n<p>Il corpo seminudo avvolto solo da un drappo &egrave; un esempio di quel processo di reintegrazione tra forma e contenuto classico avvenuto in epoca rinascimentale; lo stesso si vede nella figura di Dafne e in quella di Peneo.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.3.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.3."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Apollo",
+      "@type" : "oa:Tag",
+      "chars" : "Apollo"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-09T17:17:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644427048476",
+    "dcterms:modified" : "2022-02-10T10:34:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=625,1008,646,1546"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M624.57643,1007.76741h323.0737v0h323.0737v773.23778v773.23778h-323.0737h-323.0737v-773.23778z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_a2ce80b4-b93c-4d12-bf61-68835f9aa20f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"7.86612\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://086dc652-8c37-4aeb-af86-a6aff852c6d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Il paesaggio in cui si svolgono gli episodi &egrave; reso in modo estremamente naturalistico e curato nei minimi dettagli. Sulla sinistra si trova la grotta in cui alloggia Peneo mentre sullo sfondo scorre il fiume che presumibilmente sgorga dall'urna del dio fluviale. Infine, una ricca vegetazione boschiva si estende alle spalle dei due protagonisti aprendosi su un paesaggio montuoso.&nbsp;\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Il paesaggio in cui si svolgono gli episodi &egrave; reso in modo estremamente naturalistico e curato nei minimi dettagli. Sulla sinistra si trova la grotta in cui alloggia Peneo mentre sullo sfondo scorre il fiume che presumibilmente sgorga dall'urna del dio fluviale. Infine, una ricca vegetazione boschiva si estende alle spalle dei due protagonisti aprendosi su un paesaggio montuoso.&nbsp;</p>\n<p>&nbsp;</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.2.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.2."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Paesaggio roccioso con fiume",
+      "@type" : "oa:Tag",
+      "chars" : "Paesaggio roccioso con fiume"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-09T16:58:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644425907786",
+    "dcterms:modified" : "2022-02-09T17:00:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=516,408,80,121"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M556.43002,528.31534c0,-26.81913 13.40956,-53.63825 40.22869,-80.45738c0,-22.2177 -18.01099,-40.22869 -40.22869,-40.22869c-22.2177,0 -40.22869,18.01099 -40.22869,40.22869c26.81913,26.81913 40.22869,53.63825 40.22869,80.45738z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_77ed3cb2-ebbc-4d63-9af7-390515455643\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0ceb0c\" stroke-width=\"64.3659\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://086dc652-8c37-4aeb-af86-a6aff852c6d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dafne sembra aver da poco iniziato la trasformazione, infatti il suo corpo &egrave; ancora quasi totalmente umano mentre la sua gamba destra &egrave; piegata in avanti a richiamare il movimento della fuga da cui deriva e che vediamo raffigurata in primo piano.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Dafne sembra aver da poco iniziato la trasformazione, infatti il suo corpo &egrave; ancora quasi totalmente umano mentre la sua gamba destra &egrave; piegata in avanti a richiamare il movimento della fuga da cui deriva e che vediamo raffigurata in primo piano.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.3.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.3."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dafne",
+      "@type" : "oa:Tag",
+      "chars" : "Dafne"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-09T17:16:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644426978072",
+    "dcterms:modified" : "2022-02-09T17:22:10",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2230,1285,158,806"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2230.01563,1285.39978h78.87191v0h78.87191v403.10485v403.10485h-78.87191h-78.87191v-403.10485z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_6ffe076b-26ce-4782-b729-de512c0f5364\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"10.85812\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://086dc652-8c37-4aeb-af86-a6aff852c6d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.4.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.4."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Urna",
+      "@type" : "oa:Tag",
+      "chars" : "Urna"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "L'urna &egrave; il tipico attributo degli dei fluviali come Peneo che &egrave; il padre di Dafne e il dio dell'omonimo fiume che sembra fuoriuscire dall'urna ed estendersi sullo sfondo della scena.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>L'urna &egrave; il tipico attributo degli dei fluviali come Peneo che &egrave; il padre di Dafne e il dio dell'omonimo fiume che sembra fuoriuscire dall'urna ed estendersi sullo sfondo della scena.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-09T17:32:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644427935220",
+    "dcterms:modified" : "2022-02-09T17:32:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=286,1521,197,208"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M285.64349,1521.06588h98.27069v0h98.27069v103.92596v103.92596h-98.27069h-98.27069v-103.92596z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5b87bc95-71aa-4727-8c77-d0eedc6ed558\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://086dc652-8c37-4aeb-af86-a6aff852c6d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.4.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.4."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Gamba in forma di tronco",
+      "@type" : "oa:Tag",
+      "chars" : "Gamba in forma di tronco"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "La corteccia dell'albero ricopre gi&agrave; completamente una delle due gambe di Dafne immobilizzandola per sempre. L'inclinazione in avanti del tronco sembra richiamare il movimento della fuga che vediamo in primo piano e che ritorna qui nell'altra gamba, ancora umana, piegata in avanti.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>La corteccia dell'albero ricopre gi&agrave; completamente una delle due gambe di Dafne immobilizzandola per sempre. L'inclinazione in avanti del tronco sembra richiamare il movimento della fuga che vediamo in primo piano e che ritorna qui nell'altra gamba, ancora umana, piegata in avanti.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T10:28:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644488924353",
+    "dcterms:modified" : "2022-02-10T10:28:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2106,1811,172,304"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2106.37184,1810.5803h86.06746v0h86.06746v151.92613v151.92613h-86.06746h-86.06746v-151.92613z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_10250df9-2eb7-4058-ad6e-f88762bfe399\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://086dc652-8c37-4aeb-af86-a6aff852c6d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Quando Apollo riesce finalmente a raggiunge Dafne &egrave; ormai troppo tardi perch&egrave; questa si sta gi&agrave; trasformando in una pianta di alloro. Il gesto di Apollo, che tende la mani in avanti e sembra voler strappare i rami dall testa della ninfa, si ricollega al significato eziologico del mito.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Quando Apollo riesce finalmente a raggiunge Dafne &egrave; ormai troppo tardi perch&egrave; questa si sta gi&agrave; trasformando in una pianta di alloro. Il gesto di Apollo, che tende la mani in avanti e sembra voler strappare i rami dall testa della ninfa, si ricollega al significato eziologico del mito.&nbsp;</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.3.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.3."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Apollo",
+      "@type" : "oa:Tag",
+      "chars" : "Apollo"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-09T17:13:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644426815195",
+    "dcterms:modified" : "2022-02-09T17:21:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2037,1471,180,602"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2036.50304,1470.70367h90.03642v0h90.03642v300.80686v300.80686h-90.03642h-90.03642v-300.80686z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_f70cd56f-4c7d-4f11-8648-7a9a5788d663\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"12.01222\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://086dc652-8c37-4aeb-af86-a6aff852c6d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Peneo, il padre di Dafne, osserva la scena della metamorfosi e la sua presenza sta anche ad indicare che ci&ograve; che accade alla figlia avviene anche per sua intercessione. Seminudo, con un drappo che gli passa sotto la vita, se ne sta in una posa sconsolata, sostenendosi la testa con una mano e con l'altro braccio appoggiato alla sua urna, attributo che lo identifica come dio fluviale.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Peneo, il padre di Dafne, osserva la scena della metamorfosi e la sua presenza sta anche ad indicare che ci&ograve; che accade alla figlia avviene anche per sua intercessione. Seminudo, con un drappo che gli passa sotto la vita, se ne sta in una posa sconsolata, sostenendosi la testa con una mano e con l'altro braccio appoggiato alla sua urna, attributo che lo identifica come dio fluviale.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.3.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.3."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Peneo",
+      "@type" : "oa:Tag",
+      "chars" : "Peneo"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-09T17:04:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644426246934",
+    "dcterms:modified" : "2022-02-09T17:34:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=234,1348,328,489"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M233.55579,1348.40215h163.96344v0h163.96344v244.44875v244.44875h-163.96344h-163.96344v-244.44875z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_441741ca-e03e-4972-914f-c48e8d061dc4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"37.24879\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://086dc652-8c37-4aeb-af86-a6aff852c6d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "\"I capelli si mutano in foglie, le braccia in rami\", racconta Ovidio. Anche qui la ripresa del passo delle&nbsp;Metamorfosi &egrave; fedele: capelli e mani formano gi&agrave; insieme la chioma di un albero mentre le braccia ancora di sembiante umano sembrano in procinto di irrigidirsi.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>\"I capelli si mutano in foglie, le braccia in rami\", racconta Ovidio. Anche qui la ripresa del passo delle&nbsp;<em>Metamorfosi</em> &egrave; fedele: capelli e mani formano gi&agrave; insieme la chioma di un albero mentre le braccia ancora di sembiante umano sembrano in procinto di irrigidirsi.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.4.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.4."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mani e capelli in forma di alloro",
+      "@type" : "oa:Tag",
+      "chars" : "Mani e capelli in forma di alloro"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-10T10:31:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644489103659",
+    "dcterms:modified" : "2022-02-10T10:46:51",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2163,1243,248,390"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2162.71814,1243.36366h124.18341v0h124.18341v194.97847v194.97847h-124.18341h-124.18341v-194.97847z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_96b91967-9679-4754-8240-dcc0b4b58c25\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"32.00503\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://086dc652-8c37-4aeb-af86-a6aff852c6d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Nella scena &egrave; possibile distinguere l'episodio principale in primo piano, cio&egrave; la fuga di Dafne da Apollo, mentre sullo sfondo a destra troviamo l'episodio successivo cio&egrave; quello della metamorfosi; sempre sullo sfondo, a sinistra, Peneo assiste alla scena della trasformazione.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Nella scena &egrave; possibile distinguere l'episodio principale in primo piano, cio&egrave; la fuga di Dafne da Apollo, mentre sullo sfondo a destra troviamo l'episodio successivo cio&egrave; quello della metamorfosi; sempre sullo sfondo, a sinistra, Peneo assiste alla scena della trasformazione.&nbsp;</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anno.1.",
+      "@type" : "oa:Tag",
+      "chars" : "Anno.1."
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Apollo rincorre Dafne",
+      "@type" : "oa:Tag",
+      "chars" : "Apollo rincorre Dafne"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dafne si trasforma in un albero di alloro",
+      "@type" : "oa:Tag",
+      "chars" : "Dafne si trasforma in un albero di alloro"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Trasformazione che include mani, capelli e una gamba",
+      "@type" : "oa:Tag",
+      "chars" : "Trasformazione che include mani, capelli e una gamba"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99328387",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-09T16:47:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644425230854",
+    "dcterms:modified" : "2022-02-10T10:47:46",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1312,248,32,49"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1327.75884,296.88773c0,-10.77801 5.389,-21.55601 16.16701,-32.33402c0,-8.92879 -7.23822,-16.16701 -16.16701,-16.16701c-8.92879,0 -16.16701,7.23822 -16.16701,16.16701c10.77801,10.77801 16.16701,21.55601 16.16701,32.33402z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_870744b5-2fe8-4fe9-830f-fb02ad34ca06\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"25.86721\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://086dc652-8c37-4aeb-af86-a6aff852c6d3"
+    } ]
+  } ],
+  "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/annotations/annotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
