@@ -28,7 +28,7 @@
     "label" : "Editore",
     "value" : "Iconos"
   }, {
-    "label" : "Autore di contributo subordinato",
+    "label" : "Autore di contributo secondario",
     "value" : "Maria Francesca Bocchi"
   } ],
   "description" : [ {
@@ -68,6 +68,11 @@
           "width" : 2670
         },
         "on" : "http://086dc652-8c37-4aeb-af86-a6aff852c6d3"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://mfrancescabocchi.github.io/ApolloeDafne/annotations/annotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Le mie annotazioni"
       } ],
       "related" : ""
     } ]
