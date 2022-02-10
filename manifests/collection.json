@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/manifest.json",
     "label" : "Maestro del Dado (copia da), Apollo e Dafne"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/manifests/maratti.json",
+    "label" : "Carlo Maratti (incisione da), Apollo e Dafne"
   } ]
 }
