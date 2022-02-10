@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://MFrancescaBocchi.github.io/ApolloeDafne/annotations/annotations.json" ],
+  "@id" : "https://MFrancescaBocchi.github.io/ApolloeDafne/annotations/collection.json",
+  "label" : "All annotations loaded in MFrancescaBocchi/ApolloeDafne project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
